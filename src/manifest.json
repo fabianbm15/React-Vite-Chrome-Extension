@@ -1,0 +1,8 @@
+{
+   "manifest_version": 3,
+   "name": "My Extension",
+   "version": "4.0.0",
+   "action": {
+      "default_popup": "index.html"
+   }
+}
