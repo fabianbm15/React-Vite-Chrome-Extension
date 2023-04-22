@@ -8,7 +8,7 @@ Before you start, make sure you have the following installed:
 ### Installation
 1. Clone this repository.
 
-`git clone https://github.com/your-username/your-project.git`
+`git clone https://github.com/fabianbm15/chrome-extension-react-vite-template`
 
 2. Install NPM packages.
 
