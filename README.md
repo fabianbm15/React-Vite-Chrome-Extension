@@ -1,6 +1,8 @@
 # Chrome Extension React Vite Template
 This is a template for creating a Chrome Extension with React and Vite.
 
+![image](https://user-images.githubusercontent.com/115187369/233844292-847e58c4-8c6e-415d-a092-33526dc38a76.png)
+
 ## Getting Started
 ### Prerequisites
 Before you start, make sure you have the following installed:
